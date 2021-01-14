@@ -1,4 +1,4 @@
-install and import the following libraries :
+install and import the following libraries using your respective termianl:
 
 pip install pyttsx3
 pip install SpeechReconition
